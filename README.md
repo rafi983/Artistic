@@ -1,2 +1,2 @@
 # Artistic
-![](./readmeImg/banner.png)
+<img src="https://i.ibb.co/9nBRHyd/banner.png" >
